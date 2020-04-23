@@ -9,7 +9,7 @@ Antes do membro ser chutado do servidor temporariamente ou para sempre, utilizam
 de que o membro está sendo advertido pelo seu ato e ocorre perigo de ter punições mais rigorosas , segue os modelos abaixo e
 as suas orientações.
 
-- Primeiramente é realizado com o comando **::dd** um modo de armazenar todos seus strikes,
+- Primeiramente é realizado com o comando **::add** um modo de armazenar todos seus strikes,
 logo após isso deve utilizar comando **>>strike**.
 
 **Modelo:**
