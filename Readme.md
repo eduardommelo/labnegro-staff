@@ -2,11 +2,11 @@
 
 Este projeto possui o propósito de informar aos integrantes da equipe **LabNegro** no qual devem seguir
 **OBRIGATORIAMENTE** as normas exigidas e termos de conduta, caso não seja seguida conforme orientado neste
-repositório o mesmo receberá punições devidas de seu superior, isso vale para todos os cargos em **GERAL** até mesmo para CEO,
-como uma forma de organizar e manter o servidor em ordem sem que haja confusão alguma.
+repositório o mesmo receberá as devidas punições de seu superior, isto vale para todos os cargos em **GERAL** até mesmo para CEO,
+como uma forma de manter o servidor em ordem, sem gerar confusões.
 
-Esteja ciente que ao ler as normas da staff, você concordará com tudo será dito aqui, caso conteste, será feito revaliação o mesmo
-reunião em geral para discussões entre outros integrantes da staff argumentando o que você não concorda.
+Esteja ciente de que ao ler as normas da Staff, você concordará com tudo que será dito neste repositório, caso conteste, será feito reavaliação e em caso
+de necessidade uma reunião em geral será convocada para discutir entre outros integrantes da Staff argumentando o que você discorda.
 
 ## Normas para Cada Cargo
 
@@ -19,11 +19,11 @@ reunião em geral para discussões entre outros integrantes da staff argumentand
 
 ## Modelo de Punições
 
-Os modelos de punições são uma forma de não ter bagunça caso o membro queira contestar sua punição, assim consultando seu motivo
-e analisando o ocorrido.
+Os modelos de punições são uma forma de manter um padrão e contribuir caso o membro queira contestar sua punição, assim consultando seu motivo
+e analisando o ocorrido com mais facilidade.
 
-Saiba que o dever da staff responsável pela moderação tem o **DEVER** de utilizar as punições como ultimo caso, caso não seja
-resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos visualizando por este link
+Saiba que o dever da Staff responsável pela moderação tem a **OBRIGAÇÃO** de utilizar as punições como último feito, caso não seja
+resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos visualizando pelo link
 abaixo.
 
 **[Modelo de punições](https://github.com/eduardommelo/labnegro-staff/blob/master/moderator/PUNISH.md)**
