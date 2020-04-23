@@ -11,7 +11,7 @@ reunião em geral para discussões entre outros integrantes da staff argumento o
 ## Normas para Cada Cargo
 
 - [CEO (Diretor Executivo)](https://github.com/eduardommelo/labnegro-staff/blob/master/CEO.md)
-- [CTO (Diretor Técnico)]()
+- [CTO (Diretor Técnico)](https://github.com/eduardommelo/labnegro-staff/blob/master/CTO.md)
 - [Builder (Administrador)]()
 - [DevMod (Moderador)]()
 - [Operator (Operador)]()
