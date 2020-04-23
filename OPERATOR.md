@@ -3,17 +3,19 @@ Responsável por operar avaliando, moderando depedente de cada um de seu papel a
 
 
 ## Normas - Supervidor
-
-1 - Realizar as metas que são solicitadas pelos superiores.
-2 - Moderar o servidor e mantendi as atividades em ordem.
-3 - Manter o servidor ativo.
-4 - Realizar pequenos eventos, caso seja grande a combinar com superiores.
-5-  Caso tenha que realizar algo que não cabe dentro de suas funções, comunicar com os superiores.
+<ol>
+  <li>Realizar as metas que são solicitadas pelos superiores.</li>
+ <li>Moderar o servidor e mantendi as atividades em ordem.</li>
+ <li>Manter o servidor ativo.</li>
+ <li>Realizar pequenos eventos, caso seja grande a combinar com superiores.</li>
+ <li>Caso tenha que realizar algo que não cabe dentro de suas funções, comunicar com os superiores.</li>
+ </ol>
 
 
 ## Normas - Proficient
-
-1 - Filtrar os comandos recebidos pelos desenvolvedores, assim analisando cada um.
-2 - Filtrar bots recebidos pelos desenvolvedroes.
-3 - Gerenciar os comandos em geral, caso tenha algum código passado batido instável.
-4 - Sempre bater suas metas que são solicitadas pelos seus superiores.
+<ol>
+  <li>Filtrar os comandos recebidos pelos desenvolvedores, assim analisando cada um.</li>
+  <li>Filtrar bots recebidos pelos desenvolvedroes.</li>
+  <li>Gerenciar os comandos em geral, caso tenha algum código passado batido instável.</li>
+  <li>Sempre bater suas metas que são solicitadas pelos seus superiores.</li>
+</ol>
