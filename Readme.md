@@ -6,7 +6,7 @@ repositório o mesmo receberá punições devidas de seu superior, isso vale par
 como uma forma de organizar e manter o servidor em ordem sem que haja confusão alguma.
 
 Esteja ciente que ao ler as normas da staff, você concordará com tudo será dito aqui, caso conteste, será feito revaliação o mesmo
-reunião em geral para discussões entre outros integrantes da staff argumento o que você não concorda.
+reunião em geral para discussões entre outros integrantes da staff argumentando o que você não concorda.
 
 ## Normas para Cada Cargo
 
