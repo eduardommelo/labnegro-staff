@@ -23,7 +23,7 @@ Os modelos de punições são uma forma de não ter bagunça caso o membro queir
 e analisando o ocorrido.
 
 Saiba que o dever da staff responsável pela moderação tem o **DEVER** de utilizar as punições como ultimo caso, caso não seja
-resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos seguindo este link
+resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos visualizando por este link
 abaixo.
 
 **[Modelo de punições](https://github.com/eduardommelo/labnegro-staff/blob/master/moderator/PUNISH.md)**
