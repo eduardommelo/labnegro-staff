@@ -26,4 +26,4 @@ Saiba que os dever da staff responsável pela moderação tem o **DEVER** ter ut
 resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos seguindo este link
 abaixo.
 
-**[Modelo de punições]()**
+**[Modelo de punições](https://github.com/eduardommelo/labnegro-staff/blob/master/moderator/PUNISH.md)**
