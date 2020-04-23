@@ -12,10 +12,10 @@ reunião em geral para discussões entre outros integrantes da staff argumento o
 
 - [CEO (Diretor Executivo)](https://github.com/eduardommelo/labnegro-staff/blob/master/CEO.md)
 - [CTO (Diretor Técnico)](https://github.com/eduardommelo/labnegro-staff/blob/master/CTO.md)
-- [Builder (Administrador)]()
-- [DevMod (Moderador)]()
-- [Operator (Operador)]()
-- [DevHelper (Desenvolvedor Helper)]()
+- [Builder (Administrador)](https://github.com/eduardommelo/labnegro-staff/blob/master/BUILDER.md)
+- [DevMod (Moderador)](https://github.com/eduardommelo/labnegro-staff/blob/master/DEVMOD.md)
+- [Operator (Operador)](https://github.com/eduardommelo/labnegro-staff/blob/master/OPERATOR.md)
+- [DevHelper (Desenvolvedor Helper)](https://github.com/eduardommelo/labnegro-staff/blob/master/DEVHELP.md)
 
 ## Modelo de Punições
 
