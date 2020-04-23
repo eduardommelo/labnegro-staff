@@ -22,7 +22,7 @@ reunião em geral para discussões entre outros integrantes da staff argumentand
 Os modelos de punições são uma forma de não ter bagunça caso o membro queira contestar sua punição, assim consultando seu motivo
 e analisando o ocorrido.
 
-Saiba que os dever da staff responsável pela moderação tem o **DEVER** ter utilizar as punições como ultimo caso, caso não seja
+Saiba que o dever da staff responsável pela moderação tem o **DEVER** ter utilizar as punições como ultimo caso, caso não seja
 resolvido em conversas ou em advertências verbais. Aplicar as punições devidas conforme seguindo os modelos seguindo este link
 abaixo.
 
